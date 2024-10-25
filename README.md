@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
+## I am currently learning about Cybersecurity with the hopes of getting into a career in Financial Crime! 
+
+### Fun fact about me: I love to listen to music!!
+![image of a woman with long hair and headphones on listening to music] (https://www.google.com/imgres?q=listening%20to%20%20music&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F015%2F740%2F479%2Foriginal%2Fblack-girl-with-headphones-listening-to-music-free-vector.jpg&imgrefurl=https%3A%2F%2Fwww.shecodes.io%2Fchallenge_submissions%2F2390756%2Fembed&docid=yMgqbpNt8wyDxM&tbnid=fy_pdUCO1_gALM&vet=12ahUKEwj256KVwamJAxX6TkEAHYktG1AQM3oECHAQAA..i&w=1920&h=1920&hcb=2&ved=2ahUKEwj256KVwamJAxX6TkEAHYktG1AQM3oECHAQAA)
 <!--
 **HIgbokwe23/HIgbokwe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
